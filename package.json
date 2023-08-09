@@ -1,0 +1,22 @@
+{
+  "name": "marys-restaurant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axlrommel/marys-restaurant.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/axlrommel/marys-restaurant/issues"
+  },
+  "homepage": "https://github.com/axlrommel/marys-restaurant#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
